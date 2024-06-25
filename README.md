@@ -1,4 +1,4 @@
-# projeto-divulga-o-de-livro
+# projeto-divulgacao-de-livro
 Este repositório faz parte do curso de front-end da Devmedia em parceria com o Potência Tech. Meu primeiro projeto do curso.
 
 # Meu Primeiro Projeto da Trilha Front-End da parceria Devmedia/Potência Tech
